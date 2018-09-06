@@ -1,0 +1,5 @@
+Credit Card     46066860
+Cash            22975922
+No Charge       270402
+Dispute         93330
+Unknown         6
